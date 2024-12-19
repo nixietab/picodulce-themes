@@ -12,7 +12,7 @@ def extract_theme_info(filename):
                 "description": manifest.get("description", ""),
                 "author": manifest.get("author", ""),
                 "license": manifest.get("license", ""),
-                "link": f"https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/{filename}"
+                "link": f"https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/{filename}".replace("\\",'/')
             }
     return None
 
@@ -27,6 +27,8 @@ for filename in os.listdir(themes_dir):
         theme_info = extract_theme_info(filepath)
         if theme_info:
             themes.append(theme_info)
+            print(theme_info)
+
 
 # Sort the themes list alphabetically by the 'name' key
 themes.sort(key=lambda theme: theme['name'])
