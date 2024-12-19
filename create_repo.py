@@ -27,7 +27,6 @@ for filename in os.listdir(themes_dir):
         theme_info = extract_theme_info(filepath)
         if theme_info:
             themes.append(theme_info)
-            print(theme_info)
 
 
 # Sort the themes list alphabetically by the 'name' key
