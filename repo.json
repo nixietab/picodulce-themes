@@ -36,8 +36,8 @@
       "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/forest.json"
     },
     {
-      "name": "Galactic Aurora",
-      "description": "A theme inspired by the vastness of space and glowing green auroras, blending cosmic blues, deep purples, and celestial greens.",
+      "name": "Bogos binted",
+      "description": "Hey i was just wondering...",
       "author": "Nixietab",
       "license": "MIT",
       "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Bogos.json"
@@ -78,6 +78,13 @@
       "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/oneshot.json"
     },
     {
+      "name": "Oneshot Theme",
+      "description": "A theme based on the RPG it's named after",
+      "author": "NaN-04",
+      "license": "MIT",
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Niko.json"
+    },
+    {
       "name": "Persona Futaba",
       "description": "A theme and background of Futaba from Persona 5.",
       "author": "Nixietab",
@@ -111,6 +118,13 @@
       "author": "Nixietab",
       "license": "MIT",
       "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/vaporwave.json"
+    },
+    {
+      "name": "ZZZ - Anby Theme",
+      "description": "A theme based on Anby from ZZZ",
+      "author": "NaN-04",
+      "license": "MIT",
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Anby.json"
     }
   ]
 }
