@@ -1,0 +1,24 @@
+{
+  "manifest": {
+    "name": "Strawberry",
+    "description": "A soft strawberry-inspired theme",
+    "author": "Nixietab",
+    "license": "MIT"
+  },
+  "palette": {
+    "Window": "#fce8e6",
+    "WindowText": "#000000",
+    "Base": "#f8d7d5",
+    "AlternateBase": "#fce8e6",
+    "ToolTipBase": "#f8d7d5",
+    "ToolTipText": "#000000",
+    "Text": "#000000",
+    "Button": "#fce8e6",
+    "ButtonText": "#000000",
+    "BrightText": "#ff0000",
+    "Link": "#ff4d4d",
+    "Highlight": "#ff8080",
+    "HighlightedText": "#000000"
+  },
+  "background_image_base64": ""
+}

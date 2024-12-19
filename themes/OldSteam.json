@@ -1,0 +1,24 @@
+{
+  "manifest": {
+    "name": "OldSteam",
+    "description": "A theme inspired by the old Steam 2004 UI",
+    "author": "Nixietab",
+    "license": "MIT"
+  },
+  "palette": {
+    "Window": "#2a2f26",
+    "WindowText": "#d0e4d0",
+    "Base": "#202a1a",
+    "AlternateBase": "#2a2f26",
+    "ToolTipBase": "#3d4f36",
+    "ToolTipText": "#c3d1b1",
+    "Text": "#d0e4d0",
+    "Button": "#3d4f36",
+    "ButtonText": "#d0e4d0",
+    "BrightText": "#a1b39f",
+    "Link": "#74a34a",
+    "Highlight": "#3c522e",
+    "HighlightedText": "#d0e4d0"
+  },
+  "background_image_base64": ""
+}

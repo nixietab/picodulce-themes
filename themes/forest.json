@@ -1,0 +1,24 @@
+{
+  "manifest": {
+    "name": "Forest",
+    "description": "A calm, forest-inspired theme",
+    "author": "Nixietab",
+    "license": "MIT"
+  },
+  "palette": {
+    "Window": "#0E1A15",
+    "WindowText": "#C9E4CA",
+    "Base": "#1B3027",
+    "AlternateBase": "#243D36",
+    "ToolTipBase": "#4E9F3D",
+    "ToolTipText": "#FFFFFF",
+    "Text": "#A7C957",
+    "Button": "#2A4036",
+    "ButtonText": "#C9E4CA",
+    "BrightText": "#6BCB77",
+    "Link": "#4E9F3D",
+    "Highlight": "#A7C957",
+    "HighlightedText": "#1B3027"
+  },
+  "background_image_base64": ""
+}

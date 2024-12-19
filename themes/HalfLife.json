@@ -1,0 +1,24 @@
+{
+  "manifest": {
+    "name": "Half-Life",
+    "description": "A theme inspired by Half-Life",
+    "author": "Nixietab",
+    "license": "MIT"
+  },
+  "palette": {
+    "Window": "#121212",
+    "WindowText": "#FF8C00",
+    "Base": "#0D0D0D",
+    "AlternateBase": "#1C1C1C",
+    "ToolTipBase": "#FF8C00",
+    "ToolTipText": "#FFFFFF",
+    "Text": "#FFB347",
+    "Button": "#222222",
+    "ButtonText": "#FF8C00",
+    "BrightText": "#FFB347",
+    "Link": "#FFA500",
+    "Highlight": "#FF8C00",
+    "HighlightedText": "#FFFFFF"
+  },
+  "background_image_base64": ""
+}

@@ -1,23 +1,23 @@
 {
   "manifest": {
-    "name": "Dark",
-    "description": "The default picodulce launcher theme",
+    "name": "Alpha",
+    "description": "The theme of the picodulce launcher alpha",
     "author": "Nixietab",
     "license": "MIT"
   },
   "palette": {
-    "Window": "#353535",
+    "Window": "#31363b",
     "WindowText": "#ffffff",
     "Base": "#191919",
-    "AlternateBase": "#353535",
+    "AlternateBase": "#31363b",
     "ToolTipBase": "#ffffff",
     "ToolTipText": "#ffffff",
     "Text": "#ffffff",
-    "Button": "#353535",
+    "Button": "#31363b",
     "ButtonText": "#ffffff",
     "BrightText": "#ff0000",
     "Link": "#2a82da",
-    "Highlight": "#4bb679",
+    "Highlight": "#2a82da",
     "HighlightedText": "#ffffff"
   },
   "background_image_base64": ""
