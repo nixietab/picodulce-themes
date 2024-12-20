@@ -10,6 +10,8 @@ A theme typically includes 3 simple parts:
 -   **Manifest Information:** Metadata about the theme (name, description, author, license).
 -   **Palette Configuration:** Defines the colors used in the UI.
 -   **Background Image (Optional):** A background image for the main page of the launcher
+-   **Stylesheet instructions (Optional):** A group of css-like styling [Qt Documentation](https://doc.qt.io/qt-6/stylesheet-syntax.html)
+
 
 Here is a example:
 
@@ -35,6 +37,7 @@ Here is a example:
         "Highlight": "#4bb679",
         "HighlightedText": "#ffffff"
       },
+      "stylesheet": "",
       "background_image_base64": ""
     }
 
