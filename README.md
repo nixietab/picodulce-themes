@@ -5,7 +5,7 @@ The official repository of the picodulce launcher themes
 
 ### **1. Understand the Theme Structure**
 
-A theme typically includes 3 simple parts:
+A theme typically includes 4 simple parts:
 
 -   **Manifest Information:** Metadata about the theme (name, description, author, license).
 -   **Palette Configuration:** Defines the colors used in the UI.
