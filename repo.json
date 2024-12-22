@@ -15,6 +15,20 @@
       "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/AlulaGun.json"
     },
     {
+      "name": "Bogos binted",
+      "description": "Hey, i was just wondering...",
+      "author": "Nixietab",
+      "license": "MIT",
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Bogos.json"
+    },
+    {
+      "name": "Cirno",
+      "description": "cheap Cirno theme to test the repository 1",
+      "author": "Nixietab",
+      "license": "MIT",
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Cirno.json"
+    },
+    {
       "name": "Dark",
       "description": "The default picodulce launcher theme",
       "author": "Nixietab",
@@ -34,13 +48,6 @@
       "author": "Nixietab",
       "license": "MIT",
       "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/forest.json"
-    },
-    {
-      "name": "Bogos binted",
-      "description": "Hey i was just wondering...",
-      "author": "Nixietab",
-      "license": "MIT",
-      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Bogos.json"
     },
     {
       "name": "Half-Life",
