@@ -1,6 +1,9 @@
 # picodulce-themes
 The official repository of the picodulce launcher themes
 
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/nixietab/picodulce-themes/.github%2Fworkflows%2Fcreate_repository.yml)
+
+
 # How to create themes?
 
 ### **1. Understand the Theme Structure**
