@@ -37,3 +37,13 @@ jobs:
 
     - name: Check if repo.json exists
       run: ls -l
+
+    - name: Commit and push repo.json
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+        git add repo.json
+        git commit -m "Update repo.json"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
