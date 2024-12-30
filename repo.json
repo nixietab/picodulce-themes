@@ -50,6 +50,13 @@
       "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/forest.json"
     },
     {
+      "name": "Gruvbox Dark",
+      "description": "A retro-groove dark theme.",
+      "author": "Nixietab",
+      "license": "MIT",
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Gruvbox.json"
+    },
+    {
       "name": "Half-Life",
       "description": "A theme inspired by Half-Life",
       "author": "Nixietab",
@@ -62,6 +69,13 @@
       "author": "refrigerador67",
       "license": "MIT",
       "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/MomiagewoShakaagewo.json"
+    },
+    {
+      "name": "Monokai",
+      "description": "Picodulce actually was made with this palette",
+      "author": "Nixietab",
+      "license": "MIT",
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Monokai.json"
     },
     {
       "name": "Obsidian",
