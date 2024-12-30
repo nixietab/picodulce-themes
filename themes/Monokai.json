@@ -1,0 +1,24 @@
+{
+  "manifest": {
+    "name": "Monokai",
+    "description": "Picodulce actually was made with this palette",
+    "author": "Nixietab",
+    "license": "MIT"
+  },
+  "palette": {
+    "Window": "#272822",
+    "WindowText": "#f8f8f2",
+    "Base": "#272822",
+    "AlternateBase": "#3e3d32",
+    "ToolTipBase": "#f8f8f2",
+    "ToolTipText": "#272822",
+    "Text": "#f8f8f2",
+    "Button": "#3e3d32",
+    "ButtonText": "#f8f8f2",
+    "BrightText": "#f92672",
+    "Link": "#66d9ef",
+    "Highlight": "#4ea9ba",
+    "HighlightedText": "#272822"
+  },
+  "background_image_base64": ""
+}

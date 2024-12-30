@@ -1,0 +1,24 @@
+{
+  "manifest": {
+    "name": "Gruvbox Dark",
+    "description": "A retro-groove dark theme.",
+    "author": "Nixietab",
+    "license": "MIT"
+  },
+  "palette": {
+    "Window": "#282828",
+    "WindowText": "#ebdbb2",
+    "Base": "#282828",
+    "AlternateBase": "#3c3836",
+    "ToolTipBase": "#ebdbb2",
+    "ToolTipText": "#282828",
+    "Text": "#ebdbb2",
+    "Button": "#3c3836",
+    "ButtonText": "#ebdbb2",
+    "BrightText": "#d75f5f",
+    "Link": "#8ec07c",
+    "Highlight": "#749e65",
+    "HighlightedText": "#282828"
+  },
+  "background_image_base64": ""
+}
