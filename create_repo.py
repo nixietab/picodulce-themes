@@ -1,13 +1,14 @@
 import os
 import json
+import subprocess
 from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QVBoxLayout, QComboBox, QPushButton, QGridLayout
 from PyQt5.QtGui import QPalette, QColor, QPixmap, QIcon, QFont, QBrush
 from PyQt5.QtCore import Qt, QByteArray
 from PyQt5.QtTest import QTest
 from datetime import datetime
+import time
 
 class ThemeLoader:
-
     def __init__(self):
         self.theme = {}
 
@@ -281,15 +282,20 @@ print("repo.json has been generated and sorted alphabetically.")
 
 # Generate the screenshots using Xvfb
 if __name__ == "__main__":
-    import subprocess
-
     # Start Xvfb
     xvfb_cmd = ["Xvfb", ":99", "-screen", "0", "1024x768x24"]
     xvfb_proc = subprocess.Popen(xvfb_cmd)
     os.environ["DISPLAY"] = ":99"
 
+    # Wait for Xvfb to start
+    time.sleep(2)
+
+    # Check if Xvfb is running
     try:
+        subprocess.check_call(["xdpyinfo"], stderr=subprocess.DEVNULL, stdout=subprocess.DEVNULL)
         generate_screenshots()
+    except subprocess.CalledProcessError:
+        print("Error: Xvfb is not running. Please check the Xvfb setup.")
     finally:
         xvfb_proc.terminate()
         xvfb_proc.wait()
