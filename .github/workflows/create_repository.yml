@@ -24,7 +24,7 @@ jobs:
     - name: Install dependencies
       run: |
         sudo apt-get update
-        sudo apt-get install -y xvfb libx11-xcb1 libxcb1 libxcomposite1 libxcursor1 libxdamage1 libxext6 libxfixes3 libxi6 libxrandr2 libxrender1 libxkbcommon0 libxkbcommon-x11-0
+        sudo apt-get install -y xvfb libx11-xcb1 libxcb1 libxcomposite1 libxcursor1 libxdamage1 libxext6 libxfixes3 libxi6 libxrandr2 libxrender1 libxkbcommon0 libxkbcommon-x11-0 libxcb-render0 libxcb-shape0 libxcb-xfixes0
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
     - name: Set environment variables
@@ -37,7 +37,7 @@ jobs:
 
     - name: Run create_repo.py script
       run: |
-          xvfb-run --auto-servernum --server-args='-screen 0 1024x768x24' python create_repo.py
+        xvfb-run --auto-servernum --server-args='-screen 0 1024x768x24' python create_repo.py
 
     - name: Check if repo.json exists
       run: ls -l
