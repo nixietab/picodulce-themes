@@ -38,15 +38,15 @@ jobs:
       run: |
         python create_repo.py
 
-    - name: Check if repo.json exists
-      run: ls -l
+    - name: Check if repo.json and preview folder exist and list contents
+      run: ls -l && ls -l preview
 
-    - name: Commit and push repo.json
+    - name: Commit and push repo.json and contents of preview folder
       run: |
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
-        git add repo.json
-        git commit -m "Update repo.json"
+        git add repo.json preview/*
+        git commit -m "Update repo.json and preview folder contents"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
