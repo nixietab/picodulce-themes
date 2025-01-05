@@ -38,13 +38,6 @@ jobs:
       run: |
         python create_repo.py
 
-    - name: baabarab
-      run: |
-        echo "Root directory:"
-        ls -l
-        echo "Preview directory:"
-        ls -l preview
-
     - name: Commit and push repo.json and contents of preview folder
       run: |
         git config user.name "github-actions"
