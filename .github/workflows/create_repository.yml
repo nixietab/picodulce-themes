@@ -32,8 +32,9 @@ jobs:
 
     - name: Run create_repo.py script
       run: |
-        xvfb-run --auto-servernum --server-args='-screen 0 1024x768x24' python create_repo.py 
-        echo "Script completed"
+        Xvfb :99 -screen 0 1024x768x24 &
+        export DISPLAY=:99
+        python create_repo.py
 
     - name: Check if repo.json exists
       run: ls -l
