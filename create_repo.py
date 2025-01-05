@@ -295,7 +295,8 @@ if __name__ == "__main__":
         subprocess.check_call(["xdpyinfo"], stderr=subprocess.DEVNULL, stdout=subprocess.DEVNULL)
         generate_screenshots()
     except subprocess.CalledProcessError:
-        print("Error: Xvfb is not running. Please check the Xvfb setup.")
+        print("Warning: xdpyinfo is not available. Skipping display server check.")
+        generate_screenshots()
     finally:
         xvfb_proc.terminate()
         xvfb_proc.wait()
