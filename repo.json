@@ -5,147 +5,168 @@
       "description": "The theme of the picodulce launcher alpha",
       "author": "Nixietab",
       "license": "MIT",
-      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Alpha.json"
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Alpha.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/Alpha.png"
     },
     {
       "name": "Alula Gun",
       "description": "Alula with a gun",
       "author": "refrigerador67",
       "license": "MIT",
-      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/AlulaGun.json"
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/AlulaGun.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/AlulaGun.png"
     },
     {
       "name": "Bogos binted",
-      "description": "Hey, i was just wondering...",
+      "description": "Hey, i was just wondering..",
       "author": "Nixietab",
       "license": "MIT",
-      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Bogos.json"
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Bogos.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/Bogos.png"
     },
     {
       "name": "Cirno",
       "description": "cheap Cirno theme to test the repository 1",
       "author": "Nixietab",
       "license": "MIT",
-      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Cirno.json"
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Cirno.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/Cirno.png"
     },
     {
       "name": "Dark",
       "description": "The default picodulce launcher theme",
       "author": "Nixietab",
       "license": "MIT",
-      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Dark.json"
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Dark.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/Dark.png"
     },
     {
       "name": "Dark Night",
       "description": "A dark theme inspired by a starry night sky",
       "author": "Nixietab",
       "license": "MIT",
-      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Night.json"
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Night.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/Night.png"
     },
     {
       "name": "Forest",
       "description": "A calm, forest-inspired theme",
       "author": "Nixietab",
       "license": "MIT",
-      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/forest.json"
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/forest.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/forest.png"
     },
     {
       "name": "Gruvbox Dark",
       "description": "A retro-groove dark theme.",
       "author": "Nixietab",
       "license": "MIT",
-      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Gruvbox.json"
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Gruvbox.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/Gruvbox.png"
     },
     {
       "name": "Half-Life",
       "description": "A theme inspired by Half-Life",
       "author": "Nixietab",
       "license": "MIT",
-      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/HalfLife.json"
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/HalfLife.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/HalfLife.png"
     },
     {
       "name": "Momiagewo Shakaagewo",
       "description": "Fried Chicken goes with Mayo",
       "author": "refrigerador67",
       "license": "MIT",
-      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/MomiagewoShakaagewo.json"
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/MomiagewoShakaagewo.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/MomiagewoShakaagewo.png"
     },
     {
       "name": "Monokai",
       "description": "Picodulce actually was made with this palette",
       "author": "Nixietab",
       "license": "MIT",
-      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Monokai.json"
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Monokai.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/Monokai.png"
     },
     {
       "name": "Obsidian",
       "description": "A dark theme with inspired by minecraft obsidian",
       "author": "Nixietab",
       "license": "MIT",
-      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Obsidian.json"
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Obsidian.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/Obsidian.png"
     },
     {
       "name": "OldSteam",
       "description": "A theme inspired by the old Steam 2004 UI",
       "author": "Nixietab",
       "license": "MIT",
-      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/OldSteam.json"
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/OldSteam.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/OldSteam.png"
     },
     {
       "name": "OneShot",
       "description": "A theme inspired by OneShot",
       "author": "Nixietab",
       "license": "MIT",
-      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/oneshot.json"
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/oneshot.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/oneshot.png"
     },
     {
       "name": "Oneshot Theme",
       "description": "A theme based on the RPG it's named after",
       "author": "NaN-04",
       "license": "MIT",
-      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Niko.json"
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Niko.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/Niko.png"
     },
     {
       "name": "Persona Futaba",
       "description": "A theme and background of Futaba from Persona 5.",
       "author": "Nixietab",
       "license": "MIT",
-      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/PersonaFutaba.json"
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/PersonaFutaba.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/PersonaFutaba.png"
     },
     {
       "name": "Persona Joker",
       "description": "A theme and background of Joker from Persona 5.",
       "author": "Nixietab",
       "license": "MIT",
-      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/PersonaJoker.json"
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/PersonaJoker.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/PersonaJoker.png"
     },
     {
       "name": "Persona Skull",
       "description": "A theme and background of Skull from Persona 5.",
       "author": "Nixietab",
       "license": "MIT",
-      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/PersonaSkull.json"
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/PersonaSkull.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/PersonaSkull.png"
     },
     {
       "name": "Strawberry",
       "description": "A soft strawberry-inspired theme",
       "author": "Nixietab",
       "license": "MIT",
-      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Strawberry.json"
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Strawberry.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/Strawberry.png"
     },
     {
       "name": "Vaporwave",
       "description": "A vaporwave theme",
       "author": "Nixietab",
       "license": "MIT",
-      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/vaporwave.json"
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/vaporwave.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/vaporwave.png"
     },
     {
       "name": "ZZZ - Anby Theme",
       "description": "A theme based on Anby from ZZZ",
       "author": "NaN-04",
       "license": "MIT",
-      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Anby.json"
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Anby.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/Anby.png"
     }
   ]
 }
