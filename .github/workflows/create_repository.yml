@@ -30,6 +30,7 @@ jobs:
 
     - name: Run create_repo.py script
       run: |
+        export QT_QPA_PLATFORM=offscreen 
         python create_repo.py
         echo "Script completed"
 
