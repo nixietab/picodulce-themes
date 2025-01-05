@@ -31,9 +31,6 @@ jobs:
         export QT_QPA_PLATFORM_PLUGIN_PATH=/usr/lib/x86_64-linux-gnu/qt5/plugins/platforms
         export QT_DEBUG_PLUGINS=1
         
-    - name: Run headless test
-      uses: coactions/setup-xvfb@v1
-
     - name: Check installed Python packages
       run: pip freeze
 
