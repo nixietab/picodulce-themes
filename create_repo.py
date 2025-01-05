@@ -7,6 +7,9 @@ from PyQt5.QtCore import Qt, QByteArray
 from PyQt5.QtTest import QTest
 from datetime import datetime
 
+# Set QT_QPA_PLATFORM to 'offscreen'
+os.environ["QT_QPA_PLATFORM"] = "offscreen"
+
 class ThemeLoader:
     def __init__(self):
         self.theme = {}
