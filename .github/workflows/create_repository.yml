@@ -23,6 +23,8 @@ jobs:
 
     - name: Install dependencies
       run: |
+        sudo apt-get update
+        sudo apt-get install -y xvfb
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
     - name: Check installed Python packages
@@ -31,7 +33,7 @@ jobs:
     - name: Run create_repo.py script
       run: |
         export QT_QPA_PLATFORM=offscreen 
-        python create_repo.py
+        xvfb-run --auto-servernum --server-args='-screen 0 1024x768x24' python create_repo.py 
         echo "Script completed"
 
     - name: Check if repo.json exists
