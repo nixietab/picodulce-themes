@@ -105,7 +105,7 @@ class PicoDulceLauncher(QWidget):
         installed_versions_label.setFont(QFont("Arial", 14))
         self.installed_version_combo = QComboBox()
         self.installed_version_combo.setMinimumWidth(200)
-        self.installed_version_combo.addItem("Version 1.0")
+        self.installed_version_combo.addItem("1.7.10")
 
         buttons_layout = QVBoxLayout()
 
