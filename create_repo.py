@@ -279,5 +279,17 @@ with open('repo.json', 'w', encoding='utf-8') as outfile:
 
 print("repo.json has been generated and sorted alphabetically.")
 
-# Generate the screenshots
-generate_screenshots()
+# Generate the screenshots using Xvfb
+if __name__ == "__main__":
+    import subprocess
+
+    # Start Xvfb
+    xvfb_cmd = ["Xvfb", ":99", "-screen", "0", "1024x768x24"]
+    xvfb_proc = subprocess.Popen(xvfb_cmd)
+    os.environ["DISPLAY"] = ":99"
+
+    try:
+        generate_screenshots()
+    finally:
+        xvfb_proc.terminate()
+        xvfb_proc.wait()
