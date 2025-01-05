@@ -26,7 +26,7 @@
     },
     {
       "name": "Cirno",
-      "description": "cheap Cirno theme to test the repository 1",
+      "description": "cheap Cirno theme to test the repository 11",
       "author": "Nixietab",
       "license": "MIT",
       "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Cirno.json",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Dark",
-      "description": "The default picodulce launcher theme",
+      "description": "The default picodulce launcher theme.",
       "author": "Nixietab",
       "license": "MIT",
       "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Dark.json",
@@ -58,7 +58,7 @@
     },
     {
       "name": "Gruvbox Dark",
-      "description": "A retro-groove dark theme.",
+      "description": "A retro-groove dark theme",
       "author": "Nixietab",
       "license": "MIT",
       "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Gruvbox.json",
@@ -162,7 +162,7 @@
     },
     {
       "name": "ZZZ - Anby Theme",
-      "description": "A theme based on Anby from ZZZ",
+      "description": "A theme based on Anby from ZZZ.",
       "author": "NaN-04",
       "license": "MIT",
       "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Anby.json",
