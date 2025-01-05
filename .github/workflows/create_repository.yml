@@ -29,8 +29,6 @@ jobs:
         
     - name: Set environment variables
       run: |
-        export QT_QPA_PLATFORM_PLUGIN_PATH=/usr/lib/x86_64-linux-gnu/qt5/plugins/platforms
-        export QT_DEBUG_PLUGINS=1
         export QT_QPA_PLATFORM=offscreen
         
     - name: Check installed Python packages
