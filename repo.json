@@ -73,6 +73,14 @@
       "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/HalfLife.png"
     },
     {
+      "name": "Hornerito",
+      "description": "A theme featuring a hornerito.",
+      "author": "Nixietab",
+      "license": "MIT",
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/hornero.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/hornero.png"
+    },
+    {
       "name": "Momiagewo Shakaagewo",
       "description": "Fried Chicken goes with Mayo",
       "author": "refrigerador67",
