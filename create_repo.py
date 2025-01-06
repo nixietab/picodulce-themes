@@ -75,7 +75,7 @@ class PicoDulceLauncher(QWidget):
         else:
             self.setWindowIcon(QIcon('launcher_icon.ico'))
 
-        self.setGeometry(100, 100, 400, 250)
+        self.setGeometry(100, 100, 450, 350)
         QApplication.setStyle("Fusion")
 
         if self.theme.get("background_image_base64", False):
