@@ -25,6 +25,14 @@
       "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/Bogos.png"
     },
     {
+      "name": "Children of the city",
+      "description": "Color scheme based on Yan's background from Library of Ruina, game by project moon.",
+      "author": "NaN-04",
+      "license": "MIT",
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/CotC.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/CotC.png"
+    },
+    {
       "name": "Cirno",
       "description": "cheap Cirno theme to test the repository 11",
       "author": "Nixietab",
