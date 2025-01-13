@@ -73,6 +73,14 @@
       "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/Gruvbox.png"
     },
     {
+      "name": "Hacker Time",
+      "description": "Picodulce has animated backgrounds now?!",
+      "author": "Nixietab",
+      "license": "MIT",
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/HackerTime.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/HackerTime.png"
+    },
+    {
       "name": "Half-Life",
       "description": "A theme inspired by Half-Life.",
       "author": "Nixietab",
@@ -111,6 +119,14 @@
       "license": "MIT",
       "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Obsidian.json",
       "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/Obsidian.png"
+    },
+    {
+      "name": "Oceanic",
+      "description": "A serene ocean-inspired theme",
+      "author": "Nixietab",
+      "license": "MIT",
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/oceanic.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/oceanic.png"
     },
     {
       "name": "OldSteam",
