@@ -1,0 +1,25 @@
+{
+  "manifest": {
+    "name": "Oceanic",
+    "description": "A serene ocean-inspired theme",
+    "author": "Nixietab",
+    "license": "MIT"
+  },
+  "palette": {
+    "Window": "#1B2B34",
+    "WindowText": "#D8DEE9",
+    "Base": "#1B2B34",
+    "AlternateBase": "#343D46",
+    "ToolTipBase": "#D8DEE9",
+    "ToolTipText": "#1B2B34",
+    "Text": "#D8DEE9",
+    "Button": "#343D46",
+    "ButtonText": "#D8DEE9",
+    "BrightText": "#EC5f67",
+    "Link": "#6699CC",
+    "Highlight": "#4FB4D8",
+    "HighlightedText": "#1B2B34"
+  },
+  "stylesheet":"",
+  "background_image_base64": ""
+}
