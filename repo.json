@@ -17,6 +17,14 @@
       "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/AlulaGun.png"
     },
     {
+      "name": "Arch Linux",
+      "description": "A very generic Arch Linux theme",
+      "author": "refrigerador67",
+      "license": "MIT",
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Arch Linux.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/Arch Linux.png"
+    },
+    {
       "name": "Bogos binted",
       "description": "Hey, i was just wondering...",
       "author": "Nixietab",
