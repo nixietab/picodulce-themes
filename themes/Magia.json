@@ -1,0 +1,24 @@
+{
+  "manifest": {
+    "name": "Magia",
+    "description": "Converted from a theme i made for mumble",
+    "author": "Nixietab",
+    "license": "MIT"
+  },
+  "palette": {
+    "Window": "#24132a",
+    "WindowText": "#e0d6eb",
+    "Base": "#1a1020",
+    "AlternateBase": "#3a2050",
+    "ToolTipBase": "#1a1020",
+    "ToolTipText": "#e0d6eb",
+    "Text": "#e0d6eb",
+    "Button": "#3a2050",
+    "ButtonText": "#e0d6eb",
+    "BrightText": "#ffffff",
+    "Link": "#bb8fce",
+    "Highlight": "#8e44ad",
+    "HighlightedText": "#ffffff"
+  },
+  "background_image_base64": ""
+}
