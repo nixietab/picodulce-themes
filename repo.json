@@ -105,6 +105,14 @@
       "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/hornero.png"
     },
     {
+      "name": "Magia",
+      "description": "Converted from a theme i made for mumble",
+      "author": "Nixietab",
+      "license": "MIT",
+      "link": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/themes/Magia.json",
+      "preview": "https://raw.githubusercontent.com/nixietab/picodulce-themes/refs/heads/main/previews/Magia.png"
+    },
+    {
       "name": "Momiagewo Shakaagewo",
       "description": "Fried Chicken goes with Mayo",
       "author": "refrigerador67",
